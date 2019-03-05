@@ -4,6 +4,9 @@ Created on 04.07.2011
 Changed on 13.03.2016 by Artem Tiumentcev
 
 @author: Sergey Prokhorov <me@seriyps.ru>
+
+original: https://github.com/seriyps/ru_number_to_text
+
 '''
 import decimal
 
