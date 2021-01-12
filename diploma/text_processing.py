@@ -9,6 +9,8 @@ import sys
 path = "test.docx"   # sample file
 # path = input("Write the path to a file: ")  # way with name or just name if file in project
 
+# TODO: wrap everything in class
+
 
 def fs(path_to_file):  # function witch split way, name and extension of file
     base = os.path.basename(path_to_file)
